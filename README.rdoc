@@ -1,0 +1,3 @@
+== README
+
+A game like Risk. Just starting to get into it. don't have my notes on me. put the images, html and js into the new folders
